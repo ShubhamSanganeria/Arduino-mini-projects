@@ -107,7 +107,7 @@ else if(flag==2)
     delay(5000);
     digitalWrite(A0,LOW);
  lcd.clear();
- lcd.print("Enter passwword");
+ lcd.print("Enter password");
  lcd.setCursor(0,1);
  delay(500);
   }
